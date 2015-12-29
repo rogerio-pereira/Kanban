@@ -1,0 +1,37 @@
+@charset 'UTF-8';
+/*  
+  CSS login
+  CSS da tela login.class.php
+
+  Sistema:	Kanban
+  Autor: 	Rogério Eduardo Pereira
+  Data:		Sep 1, 2014
+*/
+body
+{
+	position:			absolute;
+	background-color: 	#272822;
+	margin: 			0%;
+	padding: 			0%;
+	overflow: 			hidden;
+	text-align:			center;
+	height:				100%;
+	width:				100%;
+}
+
+div.contentLogin
+{
+	position:		absolute;
+	
+	top:			50%;
+	left:			50%;
+	margin-top:		-6%;
+	margin-left:	-6%;	
+}
+
+h1
+{
+	font-size: 		15pt;
+  	font-family: 	Arial,sans-serif;
+  	top: 			100%;
+}

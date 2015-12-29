@@ -1,0 +1,61 @@
+/*	
+	CSS tarefa
+	CSS da classe tarefa.class.php
+
+	Sistema:	Kanban
+	Autor: 		Rogério Eduardo Pereira
+	Data: 		22/08/2014
+*/
+@charset 'UTF-8';
+body
+{
+	background-color: 	#272822;
+	margin: 			0;
+	padding: 			0;
+	color:				#e4e0e0;
+	overflow: 			auto;
+  	font-family:		Arial,sans-serif;
+	font-size:			10pt;
+}
+
+h1
+{
+	font-size: 		18pt;
+	padding:		0;
+	margin:			0;
+	text-align:		center;
+}
+
+h2
+{
+	font-size: 		15pt;
+	padding:		0;
+	margin:			0;
+	text-align:		center;
+}
+
+h3
+{
+	font-size: 		10pt;
+	padding:		0;
+	margin:			0;
+	text-align:		left;
+	font-weight:	700;
+}
+
+form.formularioTarefa
+{
+	width: 400px;
+}
+
+form.formularioTarefa table
+{
+	width: 100%;
+}
+
+input#nome
+{
+	width:		100%;
+	font-size: 	18pt;
+	text-align: center;
+}

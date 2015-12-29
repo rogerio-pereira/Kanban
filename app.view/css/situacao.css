@@ -1,0 +1,23 @@
+/*	
+	CSS situacao
+	CSS da classe situacao.class.php
+
+	Sistema:	Kanban
+	Autor: 		Rogério Eduardo Pereira
+	Data: 		22/08/2014
+*/
+form.formularioSituacoes
+{
+	position:	relative;
+	width:		100%;
+}
+
+form.formularioSituacao
+{
+	width: 280px;
+}
+
+form.formularioSituacao table
+{
+	width: 100%;
+}
